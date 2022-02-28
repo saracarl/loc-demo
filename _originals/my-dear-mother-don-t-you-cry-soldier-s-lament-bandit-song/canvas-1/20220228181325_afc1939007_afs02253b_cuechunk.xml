@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<Cues>
+    <Cue>
+        <ID>1</ID>
+        <Position>0</Position>
+        <DataChunkID>0x64617461</DataChunkID>
+        <ChunkStart>0</ChunkStart>
+        <BlockStart>0</BlockStart>
+        <SampleOffset>0</SampleOffset>
+        <Label>AFS number reading for AFC preservation reel by LOC Recorded Sound Division staff</Label>
+        <Note>Before recordings were digitally preserved,  LOC staff would transfer them to preservation tape.  This digitization is of the AFC preservation reel - not the original recording.  Recorded Sound staff identify each recording prior to playing it.  This recording of LOC staff reading the recording's AFS identifier is not part of the original recording.</Note>
+        <LabeledText>
+            <SampleLength>396900</SampleLength>
+            <PurposeID>0x6E6F7465</PurposeID>
+            <Country>1</Country>
+            <Language>9</Language>
+            <Dialect>1</Dialect>
+            <CodePage>0</CodePage>
+            <Text></Text>
+        </LabeledText>
+    </Cue>
+    <Cue>
+        <ID>2</ID>
+        <Position>396900</Position>
+        <DataChunkID>0x64617461</DataChunkID>
+        <ChunkStart>0</ChunkStart>
+        <BlockStart>0</BlockStart>
+        <SampleOffset>396900</SampleOffset>
+        <Label>Original recording begins</Label>
+        <LabeledText>
+            <SampleLength>441000</SampleLength>
+            <PurposeID>0x6E6F7465</PurposeID>
+            <Country>1</Country>
+            <Language>9</Language>
+            <Dialect>1</Dialect>
+            <CodePage>0</CodePage>
+            <Text></Text>
+        </LabeledText>
+    </Cue>
+    <Cue>
+        <ID>3</ID>
+        <Position>882000</Position>
+        <DataChunkID>0x64617461</DataChunkID>
+        <ChunkStart>0</ChunkStart>
+        <BlockStart>0</BlockStart>
+        <SampleOffset>882000</SampleOffset>
+        <Label>"My dear mother,  don't you cry" begins</Label>
+        <LabeledText>
+            <SampleLength>0</SampleLength>
+            <PurposeID>0x6E6F7465</PurposeID>
+            <Country>1</Country>
+            <Language>9</Language>
+            <Dialect>1</Dialect>
+            <CodePage>0</CodePage>
+            <Text></Text>
+        </LabeledText>
+    </Cue>
+    <Cue>
+        <ID>4</ID>
+        <Position>441000</Position>
+        <DataChunkID>0x64617461</DataChunkID>
+        <ChunkStart>0</ChunkStart>
+        <BlockStart>0</BlockStart>
+        <SampleOffset>441000</SampleOffset>
+        <Label>Disc surface noise present throughout recording</Label>
+        <Note>Original recording is in poor condition.</Note>
+        <LabeledText>
+            <SampleLength>11862900</SampleLength>
+            <PurposeID>0x656E7669</PurposeID>
+            <Country>1</Country>
+            <Language>9</Language>
+            <Dialect>1</Dialect>
+            <CodePage>0</CodePage>
+            <Text></Text>
+        </LabeledText>
+    </Cue>
+    <Cue>
+        <ID>5</ID>
+        <Position>3660300</Position>
+        <DataChunkID>0x64617461</DataChunkID>
+        <ChunkStart>0</ChunkStart>
+        <BlockStart>0</BlockStart>
+        <SampleOffset>3660300</SampleOffset>
+        <Label>"Soldier's lament" begins</Label>
+        <LabeledText>
+            <SampleLength>0</SampleLength>
+            <PurposeID>0x6E6F7465</PurposeID>
+            <Country>1</Country>
+            <Language>9</Language>
+            <Dialect>1</Dialect>
+            <CodePage>0</CodePage>
+            <Text></Text>
+        </LabeledText>
+    </Cue>
+    <Cue>
+        <ID>6</ID>
+        <Position>6438600</Position>
+        <DataChunkID>0x64617461</DataChunkID>
+        <ChunkStart>0</ChunkStart>
+        <BlockStart>0</BlockStart>
+        <SampleOffset>6438600</SampleOffset>
+        <Label>"Bandit song" begins</Label>
+        <LabeledText>
+            <SampleLength>0</SampleLength>
+            <PurposeID>0x6E6F7465</PurposeID>
+            <Country>1</Country>
+            <Language>9</Language>
+            <Dialect>1</Dialect>
+            <CodePage>0</CodePage>
+            <Text></Text>
+        </LabeledText>
+    </Cue>
+</Cues>

@@ -1,0 +1,50 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://saracarl.github.io/loc-demo/my-dear-mother-don-t-you-cry-soldier-s-lament-bandit-song/canvas-1/canvas/note.json",
+  "type": "AnnotationPage",
+  "label": "Note",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/loc-demo/my-dear-mother-don-t-you-cry-soldier-s-lament-bandit-song/canvas-1/canvas/note-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Before recordings were digitally preserved,  LOC staff would transfer them to preservation tape.  This digitization is of the AFC preservation reel - not the original recording.  Recorded Sound staff identify each recording prior to playing it.  This recording of LOC staff reading the recording's AFS identifier is not part of the original recording.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/loc-demo/my-dear-mother-don-t-you-cry-soldier-s-lament-bandit-song/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.0,9.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/loc-demo/my-dear-mother-don-t-you-cry-soldier-s-lament-bandit-song/canvas-1/canvas/note-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Original recording is in poor condition.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/loc-demo/my-dear-mother-don-t-you-cry-soldier-s-lament-bandit-song/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "10.0,269.0"
+        }
+      }
+    }
+  ]
+}

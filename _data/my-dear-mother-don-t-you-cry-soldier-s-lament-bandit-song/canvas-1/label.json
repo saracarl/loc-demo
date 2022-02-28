@@ -1,0 +1,134 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://saracarl.github.io/loc-demo/my-dear-mother-don-t-you-cry-soldier-s-lament-bandit-song/canvas-1/canvas/label.json",
+  "type": "AnnotationPage",
+  "label": "Label",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/loc-demo/my-dear-mother-don-t-you-cry-soldier-s-lament-bandit-song/canvas-1/canvas/label-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AFS number reading for AFC preservation reel by LOC Recorded Sound Division staff",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/loc-demo/my-dear-mother-don-t-you-cry-soldier-s-lament-bandit-song/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.0,9.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/loc-demo/my-dear-mother-don-t-you-cry-soldier-s-lament-bandit-song/canvas-1/canvas/label-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Original recording begins",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/loc-demo/my-dear-mother-don-t-you-cry-soldier-s-lament-bandit-song/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "9.0,10.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/loc-demo/my-dear-mother-don-t-you-cry-soldier-s-lament-bandit-song/canvas-1/canvas/label-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"My dear mother,  don't you cry\" begins",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/loc-demo/my-dear-mother-don-t-you-cry-soldier-s-lament-bandit-song/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "20.0,0.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/loc-demo/my-dear-mother-don-t-you-cry-soldier-s-lament-bandit-song/canvas-1/canvas/label-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Disc surface noise present throughout recording",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/loc-demo/my-dear-mother-don-t-you-cry-soldier-s-lament-bandit-song/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "10.0,269.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/loc-demo/my-dear-mother-don-t-you-cry-soldier-s-lament-bandit-song/canvas-1/canvas/label-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Soldier's lament\" begins",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/loc-demo/my-dear-mother-don-t-you-cry-soldier-s-lament-bandit-song/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "83.0,0.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/loc-demo/my-dear-mother-don-t-you-cry-soldier-s-lament-bandit-song/canvas-1/canvas/label-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Bandit song\" begins",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/loc-demo/my-dear-mother-don-t-you-cry-soldier-s-lament-bandit-song/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "146.0,0.0"
+        }
+      }
+    }
+  ]
+}

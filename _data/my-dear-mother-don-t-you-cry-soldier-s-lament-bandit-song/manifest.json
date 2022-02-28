@@ -23,6 +23,20 @@
         "id": "https://saracarl.github.io/loc-demo/my-dear-mother-don-t-you-cry-soldier-s-lament-bandit-song/canvas-1/canvas",
         "type": "Canvas",
         "duration": 269.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://saracarl.github.io/loc-demo/my-dear-mother-don-t-you-cry-soldier-s-lament-bandit-song/canvas-1/canvas/label.json",
+            "label": "Label"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://saracarl.github.io/loc-demo/my-dear-mother-don-t-you-cry-soldier-s-lament-bandit-song/canvas-1/canvas/note.json",
+            "label": "Note"
+          }
+        ],
         "items": [
           {
             "id": "https://saracarl.github.io/loc-demo/my-dear-mother-don-t-you-cry-soldier-s-lament-bandit-song/canvas-1/paintings",
