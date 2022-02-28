@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://saracarl.github.io/loc-demo/my-dear-mother-don-t-you-cry-soldier-s-lament-bandit-song/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "My dear mother, don't you cry; Soldier's lament; Bandit song" ] },
+    "homepage": [
+      {
+        "id": "http://digitizationguidelines.gov/guidelines/digitize-embedding-AAsamples.html",
+        "type": "Text",
+        "label": { "en": [ "My dear mother, don't you cry; Soldier's lament; Bandit song" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://www.loc.gov",
+        "type": "Agent",
+        "label": { "en": [ "Library of Congress" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://saracarl.github.io/loc-demo/my-dear-mother-don-t-you-cry-soldier-s-lament-bandit-song/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 269.0,
+        "items": [
+          {
+            "id": "https://saracarl.github.io/loc-demo/my-dear-mother-don-t-you-cry-soldier-s-lament-bandit-song/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://saracarl.github.io/loc-demo/my-dear-mother-don-t-you-cry-soldier-s-lament-bandit-song/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "http://digitizationguidelines.gov/guidelines/cue_sampleFiles/master-afc-afc1939007-afc1939007_afs02253b.wav",
+                  "type": "Sound",
+                  "format": "audio/wav",
+                    "duration": 269.0
+                },
+                "target": "https://saracarl.github.io/loc-demo/my-dear-mother-don-t-you-cry-soldier-s-lament-bandit-song/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
